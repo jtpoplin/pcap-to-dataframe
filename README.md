@@ -2,7 +2,7 @@
 #### A self-contained automated Packet Capture (PCAP) analyzer designed to parse packets with the Python Scapy library and convert them to Pandas DataFrames for visualizations.
 
 ### Overview
-#### This processor identifies high IP communication pairs, HTTP requests, DNS queries, TLS Server Name Indication (SNI) hostnames, and destination ports.  It maps out traffic patterns using Seaborn visualizations packages them into a ReportLab PDF document.
+##### This processor identifies high IP communication pairs, HTTP requests, DNS queries, TLS Server Name Indication (SNI) hostnames, and destination ports.  It maps out traffic patterns using Seaborn visualizations packages them into a ReportLab PDF document.
 
 ### Key Features
 - Utilizes custom object-oriented packet shape classes to parse TCP, UDP, TLS, DNS, and HTTP traffic.
